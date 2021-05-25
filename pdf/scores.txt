@@ -3,8 +3,8 @@ MENS & LADIES SCORES USED TO COMPUTE HANDICAP
      CLUB................     -- club --
      CHAIRMAN............   Dave Daniels
      PRO.................   Brent Jones
-     DATE................   05-10-2021
-     TIME................   17:37:40
+     DATE................   05-25-2021
+     TIME................   13:58:05
      HOLES...............    9
      HANDICAP............   25 STROKE MAXIMUM
  
@@ -49,14 +49,14 @@ MENS & LADIES SCORES USED TO COMPUTE HANDICAP
  BERTUCCI, ALAN     10L   N/A   48*  51   54   44*  44*  45*  51   49*  52   52 
                                 50   57   47*  54   48*  47*  51   50   46*  44*
  
- BLANFORD, RICHARD   6L   5.0L  38@  38@  45   42@  40@  45   47   44   43   44 
-                                41@  43@  41@  44   49   42@  45   42@  42@  47 
+ BLANFORD, RICHARD   5L   4.8L  40@  38@  38@  45   42@  40@  45   47   44   43 
+                                44   41@  43   41@  44   49   42@  45   42@  42@
  
  BOGDANOFF, MIKE     3L   N/A  n/a  n/a  n/a   39   41   41*  42   44   36*  42 
                                 41*  40*  39*  34*  42   43   45   43   40*  45 
  
- BOGERT, TIM         9L   7.8L  46@  49   49   48   49   48   47@  51   49   50 
-                                50   45@  43@  46@  45@  39@  49   37@  49@  46@
+ BOGERT, TIM         9L   7.9L  48   46@  49   49   48   49   48   47@  51   49 
+                                50   50   45@  43@  46@  45@  39@  49@  37@  49@
  
  BOLCAR, MELISSA    18L   N/A  n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a 
                                n/a  n/a  n/a   69   64   61   51*  58*  64   69 
@@ -376,8 +376,8 @@ MENS & LADIES SCORES USED TO COMPUTE HANDICAP
  HOLLIS, ROBERT     12L  10.3L n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a 
                                n/a  n/a  n/a  n/a  n/a   49   49   50   47@  47 
  
- HOLOMSHEK, FRANK    3L   2.8L  39@  38@  37@  38@  40@  46   37@  37@  44   46 
-                                41   43   39@  41   44   38@  42   41@  43   42 
+ HOLOMSHEK, FRANK    3L   2.6L  38@  39@  38@  37@  38@  40   46   37@  37@  44 
+                                46   41   43   39@  41   44   38@  42   41@  43 
  
  HORAN, JOHN        16L  14.0L n/a  n/a  n/a  n/a  n/a   59   56   53   53   62 
                                 53@  53@  50@  62   52@  64   47@  53@  54   54 
@@ -400,8 +400,8 @@ MENS & LADIES SCORES USED TO COMPUTE HANDICAP
  JAMMER, ERIC       19L  17.2L n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a 
                                n/a  n/a  n/a  n/a  n/a   55   55   59   55@  56 
  
- JONES, BRENT        4L   3.3L  38@  40@  41   41   39@  35@  39@  41   42   39@
-                                39@  42   45   44   42   40@  41   43   41@  40@
+ JONES, BRENT        4L   3.5L  45   38@  40@  41   41   39@  35@  39@  41   42 
+                                39@  39@  42   45   44   42   40@  41@  43   41@
  
  JONES, SCOTT       16L  14.1L n/a  n/a  n/a  n/a  n/a  n/a   53   55   53@  53@
                                 55   54   48@  59   59   53@  56   56   54@  57 
@@ -448,8 +448,8 @@ MENS & LADIES SCORES USED TO COMPUTE HANDICAP
  LACOUR, LINT       10L   N/A   53   53   50   53   54   48   52   45*  45*  49 
                                 47*  47*  44*  48   49   44*  48*  47*  46*  48*
  
- LAHUTSKY, TOM       9L   7.9L  39@  45@  53   51   44@  44@  49   55   50   44@
-                                48   48   50   45@  47@  42@  47@  45@  51   51 
+ LAHUTSKY, TOM       9L   7.9L  48   39@  45@  53   51   44@  44@  49   55   50 
+                                44@  48   48   50   45@  47@  42@  47@  45@  51 
  
  LANCASTER, ROGER    7L   6.3L  44   43*  43*  43@  42@  42@  49   57   45   41@
                                 46   44@  46   50   42@  43@  45   48   48   45*
@@ -483,11 +483,11 @@ MENS & LADIES SCORES USED TO COMPUTE HANDICAP
  LEAVITT, TIM       15L  13.1L n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a   56 
                                 54@  59   55   65   54@  52@  59   48@  56   55 
  
- LEISTER, MARTY      6L   5.5L  43@  41@  39@  44   45   41@  45   52   47   44 
-                                41@  44@  38@  46   46   42@  42@  44@  47   45 
+ LEISTER, MARTY      6L   5.5L  45   43@  41@  39@  44   45   41@  45   52   47 
+                                44   41@  44@  38@  46   46   42@  42@  44@  47 
  
- LEWIS, KARL         7L   5.9L  44@  37@  38@  43@  44@  45   41@  46   51   47 
-                                45   43@  44@  41@  46   44@  46   49   48   45 
+ LEWIS, KARL         7L   5.9L  47   44@  37@  38@  43@  44@  45   41@  46   51 
+                                47   45   43@  44@  41@  46   44@  46   49   48 
  
  LILLARD, CECIL     10L   N/A  n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a 
                                n/a  n/a  n/a  n/a  n/a   46*  58   57   48   52 
@@ -501,8 +501,8 @@ MENS & LADIES SCORES USED TO COMPUTE HANDICAP
  LIVESEY, KEVIN      8L   N/A   55   52   43*  46*  46*  51   46*  44*  52   51 
                                 50   49   50   49   47*  46*  51   46*  44*  40*
  
- LOIA, KRIS          6L   5.7L  40@  45   43@  45   44@  39@  39@  47   45   41@
-                                44@  46   46   47   41@  46@  49   50   48   42@
+ LOIA, KRIS          6L   5.5L  39@  40@  45   43@  45   44@  39@  39@  47   45 
+                                41@  44@  46   46   47   41@  46@  49   50   48 
  
  LONIEWSKY, BOGIE    7L   6.0L n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a 
                                n/a  n/a  n/a  n/a  n/a   49   52   42   42   42@
@@ -534,8 +534,8 @@ MENS & LADIES SCORES USED TO COMPUTE HANDICAP
  MAESTAS, AARON      7L   N/A  n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a 
                                n/a  n/a  n/a  n/a  n/a   46   43*  52   52   47 
  
- MAGUIRE, TOM        9L   8.0L  52   48   46   49   50   46@  47   46@  43@  45@
-                                43@  39@  45@  46@  53   49   47   44@  48   46@
+ MAGUIRE, TOM        9L   8.0L  49   52   48   46@  49   50   46@  47   46@  43@
+                                45@  43@  39@  45@  46@  53   49   47   44@  48 
  
  MAJESKE, STEVE      9L   7.7L n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a 
                                n/a  n/a  n/a  n/a   47   44@  45   52   48   50 
@@ -552,8 +552,8 @@ MENS & LADIES SCORES USED TO COMPUTE HANDICAP
  MARVIN, TODD        4L   3.6L  42   42   42   45   40@  43   40@  42   43   40@
                                 42@  43   39@  42@  50   44   40@  40@  40@  41@
  
- MAURIELLO, DAVID    5L   4.4L  37@  39@  39@  45   44   46   41@  43@  40@  44 
-                                47   45   40@  42@  39@  44   47   46   42@  49 
+ MAURIELLO, DAVID    5L   4.4L  50   37@  39@  39@  45   44   46   41@  43@  40@
+                                44   47   45   40@  42@  39@  44   47   46   42@
  
  MAZUREK, DANIEL    23L  20.7L  64   61@  63   67   63   58@  66   62@  67   63 
                                 59@  64   62@  63   57@  64   56@  60@  55@  61@
@@ -561,8 +561,8 @@ MENS & LADIES SCORES USED TO COMPUTE HANDICAP
  MCDANIEL, JOSEPH   16L  14.3L  56   55   51@  51@  53   60   52@  53@  53@  57 
                                 51@  53@  59   52@  56   55   54@  52@  53   53 
  
- MCENTIRE, ROBERT   13L  11.2L  51   58   60   56   47@  55   50   48@  50@  47@
-                                49@  44@  52   50@  54   50@  50@  52   49@  54 
+ MCENTIRE, ROBERT   12L  10.8L  45@  51   58   60   56   47@  55   50   48@  50 
+                                47@  49@  44@  52   50@  54   50@  50@  52   49@
  
  MCKEON, DAN       + 3L + 2.8L n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a 
                                n/a  n/a  n/a  n/a  n/a   36   36   38   33   32@
@@ -588,8 +588,8 @@ MENS & LADIES SCORES USED TO COMPUTE HANDICAP
  MIRIKE, DAVID      13L   N/A  n/a  n/a  n/a  n/a  n/a  n/a   48*  49*  59   52 
                                 50*  52   56   55   50*  53   53   49*  55   52 
  
- MONTGOMERY, DAVID   8L   6.6L  46   48   39@  44@  45@  47   44@  48   40@  44@
-                                47   49   42@  48   45@  46@  47   44@  47   57 
+ MONTGOMERY, DAVID   8L   6.6L  47   46   48   39@  44@  45@  47   44@  48   40@
+                                44@  47   49   42@  48   45@  46@  47   44@  47 
  
  MOORE, GREG        19L  17.0L  56   58   55@  58   54@  56@  55@  53@  57   56@
                                 60   55@  59   56@  58   63   61   58   55@  50@
@@ -678,8 +678,8 @@ MENS & LADIES SCORES USED TO COMPUTE HANDICAP
  POPPENS, SUE       11L   9.7L  48@  49@  46@  48@  50   52   51   42@  50   51 
                                 48@  52   43@  43@  46@  51   50   51   50@  54 
  
- PRASCHER, CRAIG    11L   9.4L  52   49   55   51   49   46@  52   52   47@  46@
-                                47@  47@  51   41@  51   49@  44@  49@  44@  53 
+ PRASCHER, CRAIG    11L   9.4L  51   52   49   55   51   49   46@  52   52   47@
+                                46@  47@  47@  51   41@  51   49@  44@  49@  44@
  
  PRICE, ROD         22L   N/A  n/a  n/a  n/a  n/a  n/a   65   68   69   58*  62 
                                 62   64   61   54*  58*  69   59*  61*  62   61*
@@ -738,8 +738,8 @@ MENS & LADIES SCORES USED TO COMPUTE HANDICAP
  SALTAMACHIA, SCOT  10L   N/A  n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a   50*
                                 55   46*  47*  43*  52   57   52   54   53   53 
  
- SALTMACHIA, MIKE    3L   2.4L  35@  41   38@  37@  40   38@  38@  40   43   38@
-                                43   39@  40   40   39@  39@  38@  41   40   43 
+ SALTMACHIA, MIKE    2L   2.2L  36@  35@  41   38@  37@  40   38@  38@  40   43 
+                                38@  43   39   40   40   39@  39@  38@  41   40 
  
  SANCHEZ, OSCAR      6L   N/A   42*  46   42   42   39*  41*  47   45   47   50 
                                 38*  47   46   47   43*  42*  44*  43*  44*  40*
@@ -780,8 +780,8 @@ MENS & LADIES SCORES USED TO COMPUTE HANDICAP
  SMITH, TIM          5L   N/A   45   40*  40*  45   41*  41*  44   42*  44*  47 
                                 37*  53   46   43*  51   43*  41*  54   45   45 
  
- SOPKO, JOHN        25L  22.5L  61@  66   60@  71   68   63   62@  62@  63@  67 
-                                62@  65   70   61@  66   63@  66   60@  58@  67 
+ SOPKO, JOHN        25L  22.2L  60@  61@  66   60@  71   68   63   62@  62@  63 
+                                67   62@  65   70   61@  66   63@  66   60@  58@
  
  SPAIN, BOB          5L   4.2L  35@  39@  45   50   43   44   44   42   41@  44 
                                 42@  41@  42@  45   40@  45   41@  43   38@  40@
@@ -864,8 +864,8 @@ MENS & LADIES SCORES USED TO COMPUTE HANDICAP
  VAN ZEELAND, ROB    7L   6.1L  44   49   48   41@  42@  47   42@  46   48   46 
                                 44@  50   44@  42@  45   43@  41@  47   40@  42@
  
- VANDENBERGE, TOM   20L  18.0L  59@  51@  51@  54@  59@  60   62   65   59@  61 
-                                57@  60   61   60   63   57@  57@  60   56@  61 
+ VANDENBERGE, TOM   20L  18.0L  63   59@  51@  51@  54@  59@  60   62   65   59@
+                                61   57@  60   61   60   63   57@  57@  60   56@
  
  VANN, JIM          16L   N/A   53*  53*  49*  53*  55   54*  54*  62   53*  62 
                                 53*  51*  64   53*  58   60   63   62   57   55 
@@ -888,8 +888,8 @@ MENS & LADIES SCORES USED TO COMPUTE HANDICAP
  WELDELE, MARK       8L   6.8L  49   42@  44@  57   43@  44@  47   45@  55   46 
                                 50   53   47   46   39@  52   45@  41@  43@  43@
  
- WELDON, BRAD        5L   4.7L  39@  44   47   39@  45   43@  45   37@  39@  42@
-                                40@  41@  44@  53   51   49   52   53   42@  46 
+ WELDON, BRAD        5L   4.7L  46   39@  44   47   39@  45   43@  45   37@  39@
+                                42@  40@  41@  44@  53   51   49   52   53   42@
  
  WENDLER, STEVE     17L  15.1L  62   54@  55   54@  51@  56   52@  57   51@  53@
                                 55   56   52@  56   61   52@  57   56   53@  54@
@@ -986,8 +986,8 @@ MENS & LADIES HANDICAPS IN ALPHABETICAL ORDER
      CLUB................     -- club --
      CHAIRMAN............   Dave Daniels
      PRO.................   Brent Jones
-     DATE................   05-10-2021
-     TIME................   17:38:01
+     DATE................   05-25-2021
+     TIME................   13:58:26
      HOLES...............    9
      HANDICAP............   25 STROKE MAXIMUM
  
@@ -1004,9 +1004,9 @@ BELLIN, MIKE          (    0 )  SLOPE H/C INDEX:   3.7L, PRE-SLOPE H/C:   4L
 BERGENTHAL, MIKE      (    0 )  SLOPE H/C INDEX:   N/A , PRE-SLOPE H/C:   4L 
 BERRY, BRAD           (    0 )  SLOPE H/C INDEX:   N/A , PRE-SLOPE H/C:  12L 
 BERTUCCI, ALAN        (    0 )  SLOPE H/C INDEX:   N/A , PRE-SLOPE H/C:  10L 
-BLANFORD, RICHARD     ( 2061 )  SLOPE H/C INDEX:   5.0L, PRE-SLOPE H/C:   6L 
+BLANFORD, RICHARD     ( 2061 )  SLOPE H/C INDEX:   4.8L, PRE-SLOPE H/C:   5L 
 BOGDANOFF, MIKE       (    0 )  SLOPE H/C INDEX:   N/A , PRE-SLOPE H/C:   3L 
-BOGERT, TIM           ( 2031 )  SLOPE H/C INDEX:   7.8L, PRE-SLOPE H/C:   9L 
+BOGERT, TIM           ( 2031 )  SLOPE H/C INDEX:   7.9L, PRE-SLOPE H/C:   9L 
 BOLCAR, MELISSA       (    0 )  SLOPE H/C INDEX:   N/A , PRE-SLOPE H/C:  18L 
 BOLGER, JUSTIN        (    0 )  SLOPE H/C INDEX:   N/A , PRE-SLOPE H/C:   9L 
 BOLTON, TOMMY         ( 1042 )  SLOPE H/C INDEX:   N/A , PRE-SLOPE H/C:  13L 
@@ -1113,7 +1113,7 @@ HILL, ALEX            (  703 )  SLOPE H/C INDEX:  10.2L, PRE-SLOPE H/C:  11L
 HOITT, JAY            (    0 )  SLOPE H/C INDEX:   N/A , PRE-SLOPE H/C:  14L 
 HOLDEN, LARRY         (    0 )  SLOPE H/C INDEX:   N/A , PRE-SLOPE H/C:   9L 
 HOLLIS, ROBERT        (    0 )  SLOPE H/C INDEX:  10.3L, PRE-SLOPE H/C:  12L 
-HOLOMSHEK, FRANK      (  102 )  SLOPE H/C INDEX:   2.8L, PRE-SLOPE H/C:   3L 
+HOLOMSHEK, FRANK      (  102 )  SLOPE H/C INDEX:   2.6L, PRE-SLOPE H/C:   3L 
 HORAN, JOHN           (    0 )  SLOPE H/C INDEX:  14.0L, PRE-SLOPE H/C:  16L 
 HUBBARD, DOUGLAS      (11111 )  SLOPE H/C INDEX:   N/A , PRE-SLOPE H/C:   3L 
 HUBBARD, LEE          (    0 )  SLOPE H/C INDEX:   6.9L, PRE-SLOPE H/C:   8L 
@@ -1121,7 +1121,7 @@ HUGHES, LOIS          (    0 )  SLOPE H/C INDEX:   N/A , PRE-SLOPE H/C:  21L
 HUMPHRIES, DUSTIN     (    0 )  SLOPE H/C INDEX:   N/A , PRE-SLOPE H/C:   8L 
 JAMES, MIKE           (    0 )  SLOPE H/C INDEX:   4.9L, PRE-SLOPE H/C:   6L 
 JAMMER, ERIC          (    0 )  SLOPE H/C INDEX:  17.2L, PRE-SLOPE H/C:  19L 
-JONES, BRENT          ( 1021 )  SLOPE H/C INDEX:   3.3L, PRE-SLOPE H/C:   4L 
+JONES, BRENT          ( 1021 )  SLOPE H/C INDEX:   3.5L, PRE-SLOPE H/C:   4L 
 JONES, SCOTT          (    0 )  SLOPE H/C INDEX:  14.1L, PRE-SLOPE H/C:  16L 
 JORDAN, RUSSELL       (    0 )  SLOPE H/C INDEX:   8.5L, PRE-SLOPE H/C:  10L 
 JOSSELYN III, GUY     (    0 )  SLOPE H/C INDEX:   N/A , PRE-SLOPE H/C:  12L 
@@ -1155,7 +1155,7 @@ LILLARD, CECIL        (    0 )  SLOPE H/C INDEX:   N/A , PRE-SLOPE H/C:  10L
 LINE, GARY            ( 2131 )  SLOPE H/C INDEX:   N/A , PRE-SLOPE H/C:   7L 
 LINVILLE, JAY         (    0 )  SLOPE H/C INDEX:   N/A , PRE-SLOPE H/C:  11L 
 LIVESEY, KEVIN        (    0 )  SLOPE H/C INDEX:   N/A , PRE-SLOPE H/C:   8L 
-LOIA, KRIS            ( 1103 )  SLOPE H/C INDEX:   5.7L, PRE-SLOPE H/C:   6L 
+LOIA, KRIS            ( 1103 )  SLOPE H/C INDEX:   5.5L, PRE-SLOPE H/C:   6L 
 LONIEWSKY, BOGIE      (    0 )  SLOPE H/C INDEX:   6.0L, PRE-SLOPE H/C:   7L 
 LOTT, DAVID           ( 1902 )  SLOPE H/C INDEX:   N/A , PRE-SLOPE H/C:  16L 
 LOWE, DUSTIN          (    0 )  SLOPE H/C INDEX:   5.1L, PRE-SLOPE H/C:   6L 
@@ -1175,7 +1175,7 @@ MARVIN, TODD          (    0 )  SLOPE H/C INDEX:   3.6L, PRE-SLOPE H/C:   4L
 MAURIELLO, DAVID      (    0 )  SLOPE H/C INDEX:   4.4L, PRE-SLOPE H/C:   5L 
 MAZUREK, DANIEL       (  901 )  SLOPE H/C INDEX:  20.7L, PRE-SLOPE H/C:  23L 
 MCDANIEL, JOSEPH      ( 1131 )  SLOPE H/C INDEX:  14.3L, PRE-SLOPE H/C:  16L 
-MCENTIRE, ROBERT      ( 1101 )  SLOPE H/C INDEX:  11.2L, PRE-SLOPE H/C:  13L 
+MCENTIRE, ROBERT      ( 1101 )  SLOPE H/C INDEX:  10.8L, PRE-SLOPE H/C:  12L 
 MCKEON, DAN           (    0 )  SLOPE H/C INDEX: + 2.8L, PRE-SLOPE H/C: + 3L 
 MCLACHLAN, TERRY      (    0 )  SLOPE H/C INDEX:   4.1L, PRE-SLOPE H/C:   5L 
 MCMURTREY, JASON      (    0 )  SLOPE H/C INDEX:   6.0L, PRE-SLOPE H/C:   7L 
@@ -1234,7 +1234,7 @@ ROSS, MICHAEL         (    0 )  SLOPE H/C INDEX:  11.1L, PRE-SLOPE H/C:  11L
 ROTH, CHUCK           (    0 )  SLOPE H/C INDEX:  10.9L, PRE-SLOPE H/C:  12L 
 SALINAS, MAURICIO     (    0 )  SLOPE H/C INDEX:   N/A , PRE-SLOPE H/C:  11L 
 SALTAMACHIA, SCOTT    (    0 )  SLOPE H/C INDEX:   N/A , PRE-SLOPE H/C:  10L 
-SALTMACHIA, MIKE      (    0 )  SLOPE H/C INDEX:   2.4L, PRE-SLOPE H/C:   3L 
+SALTMACHIA, MIKE      (    0 )  SLOPE H/C INDEX:   2.2L, PRE-SLOPE H/C:   2L 
 SANCHEZ, OSCAR        (    0 )  SLOPE H/C INDEX:   N/A , PRE-SLOPE H/C:   6L 
 SANDERS, JIM          (    0 )  SLOPE H/C INDEX:   N/A , PRE-SLOPE H/C:  10L 
 SCHATTNER, THOMAS     (    0 )  SLOPE H/C INDEX:   4.9L, PRE-SLOPE H/C:   6L 
@@ -1248,7 +1248,7 @@ SHERER, JEFF          (    0 )  SLOPE H/C INDEX:   7.4L, PRE-SLOPE H/C:   9L
 SHUCKENBROCK, CARL    (    0 )  SLOPE H/C INDEX:   N/A , PRE-SLOPE H/C:   6L 
 SIMPSON, GREG         (    0 )  SLOPE H/C INDEX:   7.4L, PRE-SLOPE H/C:   7L 
 SMITH, TIM            (    0 )  SLOPE H/C INDEX:   N/A , PRE-SLOPE H/C:   5L 
-SOPKO, JOHN           (    0 )  SLOPE H/C INDEX:  22.5L, PRE-SLOPE H/C:  25L 
+SOPKO, JOHN           (    0 )  SLOPE H/C INDEX:  22.2L, PRE-SLOPE H/C:  25L 
 SPAIN, BOB            (    0 )  SLOPE H/C INDEX:   4.2L, PRE-SLOPE H/C:   5L 
 SPILLERS, CEDRIC      (    0 )  SLOPE H/C INDEX:   7.7L, PRE-SLOPE H/C:   9L 
 STEFANI, JERRY        (    0 )  SLOPE H/C INDEX:   N/A , PRE-SLOPE H/C:   8L 
