@@ -4,7 +4,7 @@ MENS & LADIES SCORES USED TO COMPUTE HANDICAP
      CHAIRMAN............   Dave Daniels
      PRO.................   Brent Jones
      DATE................   06-15-2021
-     TIME................   13:43:50
+     TIME................   14:07:42
      HOLES...............    9
      HANDICAP............   25 STROKE MAXIMUM
  
@@ -972,8 +972,8 @@ MENS & LADIES SCORES USED TO COMPUTE HANDICAP
  ZAHORIK, MARK      12L  16.0L  54   47*  56   47*  50*  51   48*  52   50@  52~
                                 55~  50~  45*  44*  48*  46*  49*  55   55   60 
  
- ZAKARECKIS, BILL    4L   4.0L n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a 
-                                50   47   44   38@  50   45   42   45   41@  40@
+ ZAKARECKIS, BILL    5L   4.5L n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a   51 
+                                50   47   44   38@  50   45   42@  45   41@  40@
  
  ZEBE, DAVE          7L   N/A   48   54   44*  48   37*  48   48   46@  42*  47 
                                 49   50   52   44*  43*  41*  43*  46*  52   41*
@@ -990,7 +990,7 @@ MENS & LADIES HANDICAPS IN ALPHABETICAL ORDER
      CHAIRMAN............   Dave Daniels
      PRO.................   Brent Jones
      DATE................   06-15-2021
-     TIME................   13:44:11
+     TIME................   14:08:03
      HOLES...............    9
      HANDICAP............   25 STROKE MAXIMUM
  
@@ -1315,7 +1315,7 @@ YOUNG, GARY           (    0 )  SLOPE H/C INDEX:   1.7L, PRE-SLOPE H/C:   2L
 YOUNG, GREGG          (    0 )  SLOPE H/C INDEX:   3.4L, PRE-SLOPE H/C:   4L 
 YOUNG, TOM            (    0 )  SLOPE H/C INDEX:   N/A , PRE-SLOPE H/C:   5L 
 ZAHORIK, MARK         (    0 )  SLOPE H/C INDEX:  16.0L, PRE-SLOPE H/C:  12L 
-ZAKARECKIS, BILL      (    0 )  SLOPE H/C INDEX:   4.0L, PRE-SLOPE H/C:   4L 
+ZAKARECKIS, BILL      (    0 )  SLOPE H/C INDEX:   4.5L, PRE-SLOPE H/C:   5L 
 ZEBE, DAVE            ( 1163 )  SLOPE H/C INDEX:   N/A , PRE-SLOPE H/C:   7L 
 ZELESKI, CHAD         (    0 )  SLOPE H/C INDEX:   N/A , PRE-SLOPE H/C:  18L 
 ZELESKI, MIKE         (    0 )  SLOPE H/C INDEX:   N/A , PRE-SLOPE H/C:  10L 
