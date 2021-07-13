@@ -4,7 +4,7 @@ MENS & LADIES SCORES USED TO COMPUTE HANDICAP
      CHAIRMAN............   Dave Daniels
      PRO.................   Brent Jones
      DATE................   07-13-2021
-     TIME................   09:59:38
+     TIME................   10:08:47
      HOLES...............    9
      HANDICAP............   25 STROKE MAXIMUM
  
@@ -325,8 +325,8 @@ MENS & LADIES SCORES USED TO COMPUTE HANDICAP
  HALLAS, TOM        15L  13.7L n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a 
                                n/a  n/a  n/a  n/a  n/a   51   51@  61   53   59 
  
- HALLIDAY, TIM       7L   6.4L  44@  51   48   45   44@  51   42@  50   42@  45 
-                                42@  42@  41@  49   43@  48   46   43@  51   42@
+ HALLIDAY, TIM       7L   6.3L  41@  44@  51   48   45   44@  51   42@  50   42@
+                                45   42@  42@  41@  49   43@  48   46   43@  51 
  
  HARRELL, BILL       5L   4.7L  39@  46   43@  41@  38@  47   45   44   46   45 
                                 47   40@  45   37@  47   41@  40@  48   43@  43@
@@ -795,8 +795,8 @@ MENS & LADIES SCORES USED TO COMPUTE HANDICAP
  STEFANI, JERRY      8L   N/A  n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a 
                                n/a  n/a  n/a   44   49   45   53   49   43*  42*
  
- STELMACH, SHANE    13L  12.0L  54   49@  53   49@  54   53   48@  50@  56   51@
-                                52   54   57   48@  52   48@  47@  54   50@  50@
+ STELMACH, SHANE    13L  11.6L  45@  54   49@  53   49@  54   53   48@  50@  56 
+                                51@  52   54   57   48@  52   48@  47@  54   50@
  
  STEPHENS, CRAIG    18L  15.2L n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a   65   59 
                                 58@  55@  58@  60   60   63   65   60   60   47@
@@ -993,7 +993,7 @@ MENS & LADIES HANDICAPS IN ALPHABETICAL ORDER
      CHAIRMAN............   Dave Daniels
      PRO.................   Brent Jones
      DATE................   07-13-2021
-     TIME................   09:59:59
+     TIME................   10:09:08
      HOLES...............    9
      HANDICAP............   25 STROKE MAXIMUM
  
@@ -1102,7 +1102,7 @@ HAEUSSLER, DOUG       (    0 )  SLOPE H/C INDEX:   7.3L, PRE-SLOPE H/C:   9L
 HAGGARD, DOC          ( 1043 )  SLOPE H/C INDEX:   5.1L, PRE-SLOPE H/C:   6L 
 HALLAS, JIM           (    0 )  SLOPE H/C INDEX:  15.0L, PRE-SLOPE H/C:  17L 
 HALLAS, TOM           (    0 )  SLOPE H/C INDEX:  13.7L, PRE-SLOPE H/C:  15L 
-HALLIDAY, TIM         (    0 )  SLOPE H/C INDEX:   6.4L, PRE-SLOPE H/C:   7L 
+HALLIDAY, TIM         (    0 )  SLOPE H/C INDEX:   6.3L, PRE-SLOPE H/C:   7L 
 HARRELL, BILL         ( 1022 )  SLOPE H/C INDEX:   4.7L, PRE-SLOPE H/C:   5L 
 HARRIS, BRYAN         (    0 )  SLOPE H/C INDEX:   N/A , PRE-SLOPE H/C:  17L 
 HARRIS, LEE           (    0 )  SLOPE H/C INDEX:   N/A , PRE-SLOPE H/C:   8L 
@@ -1259,7 +1259,7 @@ SOPKO, JOHN           (    0 )  SLOPE H/C INDEX:  22.8L, PRE-SLOPE H/C:  25L
 SPAIN, BOB            (    0 )  SLOPE H/C INDEX:   4.7L, PRE-SLOPE H/C:   5L 
 SPILLERS, CEDRIC      (    0 )  SLOPE H/C INDEX:   7.7L, PRE-SLOPE H/C:   9L 
 STEFANI, JERRY        (    0 )  SLOPE H/C INDEX:   N/A , PRE-SLOPE H/C:   8L 
-STELMACH, SHANE       ( 1602 )  SLOPE H/C INDEX:  12.0L, PRE-SLOPE H/C:  13L 
+STELMACH, SHANE       ( 1602 )  SLOPE H/C INDEX:  11.6L, PRE-SLOPE H/C:  13L 
 STEPHENS, CRAIG       (    0 )  SLOPE H/C INDEX:  15.2L, PRE-SLOPE H/C:  18L 
 STERCHALK, BILL       (    0 )  SLOPE H/C INDEX:   N/A , PRE-SLOPE H/C:   7L 
 STIPE, CURTIS         (    0 )  SLOPE H/C INDEX:   9.0L, PRE-SLOPE H/C:   9L 
